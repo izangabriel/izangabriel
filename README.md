@@ -1,17 +1,30 @@
-<h1 align="center">Hi 👋, I'm Gabrie Gallegos</h1>
-<h3 align="center">Soy un Frontend apasionado</h3>
+# Hi there, I'm Gabriel Gallegos 👋
 
-- 👨‍💻 All of my projects are available at [https://gabrielgallegosbautista.com/](https://gabrielgallegosbautista.com/)
+> Frontend Developer apasionado por crear experiencias web atractivas y funcionales.
 
-- 💬 Ask me about **html, css, javascript, sass, reactJs**
+---
 
-- 📫 How to reach me **gabrielgallegos072@gmail.com**
+### 👨‍💻 Sobre mí
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel gallegos bautista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel gallegos bautista" height="30" width="40" /></a>
-</p>
+- 🚀 Todos mis proyectos están en **[gabrielgallegosbautista.com](https://gabrielgallegosbautista.com/)**
+- 💬 Pregúntame sobre `HTML` · `CSS` · `JavaScript` · `Sass` · `React.js`
+- 📫 Contáctame en **[gabrielgallegos072@gmail.com](mailto:gabrielgallegos072@gmail.com)**
+- 🌱 Actualmente aprendiendo: _(aquí puedes añadir algo nuevo que estés estudiando)_
+- ⚡ Fun fact: _(algo interesante de ti)_
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 🛠️ Lenguajes y herramientas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+---
+
+### 🤝 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
