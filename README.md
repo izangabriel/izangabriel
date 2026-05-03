@@ -13,10 +13,15 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🌐 Portfolio: [gabrielgallegosbautista.com](https://gabrielgallegosbautista.com/)
-- 📬 Email: [gabrielgallegos072@gmail.com](mailto:gabrielgallegos072@gmail.com)
-- 📍 México 🇲🇽
-- ✅ Disponible para proyectos
+```js
+const gabriel = {
+  role:      "Frontend Developer",
+  location:  "México 🇲🇽",
+  portfolio: "gabrielgallegosbautista.com",
+  email:     "gabrielgallegos072@gmail.com",
+  available:  true, // abierto a proyectos ✅
+};
+```
 
 ---
 
@@ -38,20 +43,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7850ff&icon_color=00c8a0&text_color=c0bde8" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7850ff&text_color=c0bde8" />
-</div>
-
----
-
 ### 🤝 Conéctate conmigo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7850ff?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielgallegosbautista.com/)
 [![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:gabrielgallegos072@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/TU_USUARIO)
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7850ff&height=80&section=footer" />
