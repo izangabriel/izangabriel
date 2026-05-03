@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7850ff&height=120&section=header&text=Gabriel%20Gallegos&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descColor=00c8a0" />
 
-## `// Hola mundo, soy Gabriel` 👋
+<h2>// Hola mundo, soy Gabriel 👋</h2>
 
-*Construyo interfaces web que combinan funcionalidad y estética.*
-*Apasionado por el detalle visual, la experiencia de usuario y el código limpio.*
+<p>Construyo interfaces web que combinan funcionalidad y estética.</p>
+<p>Apasionado por el detalle visual, la experiencia de usuario y el código limpio.</p>
 
 </div>
 
@@ -13,15 +13,10 @@
 
 ### 🧑‍💻 Sobre mí
 
-```ts
-const gabriel = {
-  role:       "Frontend Developer",
-  location:   "México 🇲🇽",
-  portfolio:  "gabrielgallegosbautista.com",
-  contact:    "gabrielgallegos072@gmail.com",
-  available:  true, // abierto a proyectos ✅
-};
-` ` `
+- 🌐 Portfolio: [gabrielgallegosbautista.com](https://gabrielgallegosbautista.com/)
+- 📬 Email: [gabrielgallegos072@gmail.com](mailto:gabrielgallegos072@gmail.com)
+- 📍 México 🇲🇽
+- ✅ Disponible para proyectos
 
 ---
 
@@ -61,11 +56,3 @@ const gabriel = {
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7850ff&height=80&section=footer" />
 </div>
-```
-
-Los cambios principales:
-- Stack dividido en **Frontend** y **Backend & DB** — se ve más organizado
-- Añadí Tailwind, Node.js y MongoDB con sus colores oficiales
-- El bloque `ts` ya no tiene links dentro (no funcionan dentro de bloques de código en GitHub)
-
-Dime tu username de GitHub y te doy la versión final con las stats funcionando.
