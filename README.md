@@ -66,7 +66,7 @@
 
 ### 🤝 Conéctate conmigo
 
-[![Portfolio](https://portafolio-six-vert-50.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7850ff?style=for-the-badge&logoColor=white)](https://portafolio-six-vert-50.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:gabrielgallegos072@gmail.com)
 
 <div align="center">
